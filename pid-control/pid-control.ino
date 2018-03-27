@@ -3,7 +3,7 @@ int ref = 20;                             // distancia de referencia
 long longitud = 63;                       // longitud del tubo
 
 double U = 0;                               // Esfuerzo de control
-double kp = 100;                           // Constante Proporcional
+double kp = 3.21;                           // Constante Proporcional
 double ki = 0.64;                          // Constante Integrativa ki = 0.64
 double kd = 0.4;                             // Constante Derivativa kd = 0.4
 double tm = 0.025;                          // tiempo de muestreo
